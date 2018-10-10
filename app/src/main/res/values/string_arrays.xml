@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="labels">
+        <item>Latest International</item>
+        <item>Sports</item>
+        <item>Environment</item>
+        <item>Politics</item>
+        <item>Art and design</item>
+        <item>Business</item>
+        <item>Education</item>
+        <item>Fashion</item>
+        <item>Music</item>
+        <item>Life and style</item>
+        <item>Travel</item>
+    </string-array>
+    <string-array name="values">
+        <item>world</item>
+        <item>sport</item>
+        <item>environment</item>
+        <item>politics</item>
+        <item>artanddesign</item>
+        <item>business</item>
+        <item>education</item>
+        <item>fashion</item>
+        <item>music</item>
+        <item>lifeandstyle</item>
+        <item>travel</item>
+    </string-array>
+</resources>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="no_internet">No interet connection</string>
+    <string name="no_items">No news items found</string>
+    <string name="text_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="settings_news_items_key">settings_news_items</string>
+    <string name="settings_home_key">settings_home</string>
+    <string name="default_home">sport</string>
+    <string name="default_number">10</string>
+
+</resources>

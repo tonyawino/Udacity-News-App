@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:defaultValue="10"
+        android:inputType="number"
+        android:key="@string/settings_news_items_key"
+        android:maxLength="2"
+        android:selectAllOnFocus="true"
+        android:title="News items to display" />
+    <ListPreference
+        android:entries="@array/labels"
+        android:entryValues="@array/values"
+        android:key="@string/settings_home_key"
+        android:title="Main page news" />
+</PreferenceScreen>
